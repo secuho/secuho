@@ -44,6 +44,6 @@ I am interested in Cyber Security.
 <img src="http://mazandi.herokuapp.com/api?handle=secuho&theme=warm"/>
 
 <div align="left">
-## 📫 Contact
+## 📫 Contact    <br>
     If you want to contact me, please email <a href="mailto:secuho@secuho.life">secuho@secuho.life</a>.
-</div>
+</div>    <br>
