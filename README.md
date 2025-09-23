@@ -20,8 +20,10 @@
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/apache-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Portainer-13BEF9.svg?style=for-the-badge&logo=Portainer&logoColor=black" />
+    <img src="https://img.shields.io/badge/portainer-13BEF9.svg?style=for-the-badge&logo=portainer&logoColor=black" />
+    <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
 <br>
