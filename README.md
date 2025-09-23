@@ -1,8 +1,9 @@
-
 <div align="center">
 <div>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2&text=Secuho&fontSize=55&fontAlign=75&fontAlignY=37" />
 </div>
+
+<h1 style="text-align:center"> Hi I'm Bae Jaeho 😙</h1> I am interested in Cyber Security.
 
 <h3 align="center">✨ Tech ✨</h3>
 <div align="center">
