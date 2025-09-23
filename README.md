@@ -11,6 +11,7 @@ I am interested in Cyber Security.
 동국대학교 컴퓨터AI학부 학부과정 (2025.03.04 ~ ) <br>
 창의문제해결 프로젝트 NEXCODE팀 CAI Roadmap 서버/백엔드 개발 (2025.07.29 ~ ) <br>
 과학기술정보통신부주최/KISA주관 K-Shiled Jr. 16차 수료 (2025.09.02 ~ 2025.09.15) <br>
+Raspberry Pi Code Club Projects NEXCODE팀 SW교육봉사단 (2025.09.22 ~ ) <br>
 
 <br>
 
