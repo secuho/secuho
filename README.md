@@ -14,23 +14,10 @@
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
     <img src="https://img.shields.io/badge/apache-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" />
     <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Portainer-13BEF9.svg?style=for-the-badge&logo=Portainer&logoColor=black" />
-<div align="center">
-
-</div>
-
-<div align="center">
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
 <div align="center">
@@ -47,10 +34,6 @@
     <img src="https://img.shields.io/badge/kali%20linux-%23557C94.svg?&style=for-the-badge&logo=kali%20linux&logoColor=white" />
     <img src="https://img.shields.io/badge/synology-%23B5B5B6.svg?&style=for-the-badge&logo=synology&logoColor=black" />
 </div>
-
-<br>
-
-
 
 <br>
 
