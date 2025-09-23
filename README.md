@@ -6,8 +6,10 @@
 <h1 style="text-align:center"> Hi I'm Jaeho Bae 😙</h1> I am interested in Cyber Security.
 
 ## 📝 History
+동국대학교 컴퓨터AI학부 학부과정 (2025.03.02 ~ )
 
 
+<br>
 
 ## 🎓 Tech
 <div align="center">
