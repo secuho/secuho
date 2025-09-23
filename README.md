@@ -42,8 +42,21 @@ I am interested in Cyber Security.
 ##
 ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=secuho)
 <img src="http://mazandi.herokuapp.com/api?handle=secuho&theme=warm"/>
+##
 
-<img width="2703" height="3825" alt="Image" src="https://github.com/user-attachments/assets/2f70bbae-2359-4e87-a6e0-7105c3ffa54b" />
+## 📜 Certificates
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b style="font-size: 1.2em;">수료증</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/2f70bbae-2359-4e87-a6e0-7105c3ffa54b" alt="Certificate" width="500"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="left">
     <h2>📫 Contact    </h2>
