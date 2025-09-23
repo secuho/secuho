@@ -38,12 +38,15 @@
 
 <br>
 
+##
+![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=secuho)
+<img src="http://mazandi.herokuapp.com/api?handle={secuho}&theme=warm"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secuho&layout=compact)
+
+
 ## 📫 Contact
   <a href="mailto:secuho@secuho.life">
     <img
       src="https://img.shields.io/badge/secuho@secuho.life-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secuho&layout=compact)
-![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=secuho)
