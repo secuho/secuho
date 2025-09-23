@@ -43,6 +43,8 @@ I am interested in Cyber Security.
 ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=secuho)
 <img src="http://mazandi.herokuapp.com/api?handle=secuho&theme=warm"/>
 
+<img width="2703" height="3825" alt="Image" src="https://github.com/user-attachments/assets/2f70bbae-2359-4e87-a6e0-7105c3ffa54b" />
+
 <div align="left">
     <h2>📫 Contact    </h2>
     <p> If you want to contact me, please email <a href="mailto:secuho@secuho.life">secuho@secuho.life</a>.    </p>
