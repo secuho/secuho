@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2&text=Secuho&fontColor=0&fontSize=50&fontAlign=75&fontAlignY=34)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2&text=Secuho&fontSize=50&fontAlign=75&fontAlignY=34)
 
 ## Hi there 👋
 
