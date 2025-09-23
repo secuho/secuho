@@ -5,7 +5,11 @@
 
 <h1 style="text-align:center"> Hi I'm Jaeho Bae 😙</h1> I am interested in Cyber Security.
 
-## ✨ Tech ✨
+## 📝 History
+
+
+
+## 🎓 Tech
 <div align="center">
     <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black" />
     <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -18,7 +22,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+## 🛠 Tools
 <div align="center">
     <img src="https://img.shields.io/badge/apache-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" />
     <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
@@ -29,7 +33,7 @@
 
 <br>
 
-<h3 align="center">📚 Environments 📚</h3>
+## 💻 Environments
 <div align="center">
     <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/kali%20linux-%23557C94.svg?&style=for-the-badge&logo=kali%20linux&logoColor=white" />
@@ -38,7 +42,7 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+## 📫 Contact
   <a href="mailto:secuho@secuho.life">
     <img
       src="https://img.shields.io/badge/secuho@secuho.life-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
