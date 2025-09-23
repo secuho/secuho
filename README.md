@@ -40,8 +40,8 @@
 
 ##
 ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=secuho)
-<img src="http://mazandi.herokuapp.com/api?handle={secuho}&theme=warm"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secuho&layout=compact)
+<img src="http://mazandi.herokuapp.com/api?handle=secuho&theme=warm"/>
+<--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secuho&layout=compact)-->
 
 
 ## 📫 Contact
