@@ -1,11 +1,7 @@
+
+<div align="center">
 <div>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2&text=Secuho&fontSize=55&fontAlign=75&fontAlignY=37" />
-</div>
-<div align="center">
-
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
 
 <!--내용 부분-->
