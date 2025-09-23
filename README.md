@@ -3,7 +3,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2&text=Secuho&fontSize=55&fontAlign=75&fontAlignY=37" />
 </div>
 
-<h1 style="text-align:center"> Hi I'm Jaeho Bae 😙</h1> I am interested in Cyber Security.
+<h1 style="text-align:center"> Hi I'm Jaeho Bae 😙</h1>
+I am interested in Cyber Security.
 
 ## 📝 History
 동국대학교 컴퓨터AI학부 학부과정 (2025.03.04 ~ ) <br>
@@ -41,7 +42,6 @@
 ##
 ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=secuho)
 <img src="http://mazandi.herokuapp.com/api?handle=secuho&theme=warm"/>
-
 
 ## 📫 Contact
   <a href="mailto:secuho@secuho.life">
