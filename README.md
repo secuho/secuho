@@ -11,21 +11,15 @@
 
 <br>
 
-## 🎓 Tech
+## 🎓 Tech / Tools
 <div align="center">
     <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black" />
     <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-<br>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
 <br>
-
-## 🛠 Tools
-<div align="center">
     <img src="https://img.shields.io/badge/apache-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" />
     <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
