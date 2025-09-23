@@ -3,9 +3,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2&text=Secuho&fontSize=55&fontAlign=75&fontAlignY=37" />
 </div>
 
-<h1 style="text-align:center"> Hi I'm Bae Jaeho 😙</h1> I am interested in Cyber Security.
+<h1 style="text-align:center"> Hi I'm Jaeho Bae 😙</h1> I am interested in Cyber Security.
 
-<h3 align="center">✨ Tech ✨</h3>
+## ✨ Tech ✨
 <div align="center">
     <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black" />
     <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
