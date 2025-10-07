@@ -12,6 +12,7 @@ I am interested in Cyber Security.
 창의문제해결 프로젝트 NEXCODE팀 CAI Roadmap 서버/백엔드 개발 (2025.07.29 ~ ) <br>
 과학기술정보통신부주최/KISA주관 K-Shiled Jr. 16차 수료 (2025.09.02 ~ 2025.09.15) <br>
 Raspberry Pi Code Club Projects NEXCODE팀 SW교육기부단 (2025.09.22 ~ ) <br>
+Redraccoon BHPT 과정 (2025.10.08 ~ ) <br>
 
 <br>
 
