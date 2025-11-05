@@ -60,7 +60,7 @@ Redraccoon Cyber Security BHPT 과정 (2025.10.08 ~ ) <br>
         <img src="https://github.com/user-attachments/assets/2f70bbae-2359-4e87-a6e0-7105c3ffa54b" alt="Certificate 1" width="500"/>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/3bd1b04b-94e6-4236-bbb9-30ea8e817e13" alt="Certificate 2" width="500"/>
+        <img src="https://github.com/user-attachments/assets/1b287ab7-6ee3-4eaf-a932-e27778dad057" alt="Certificate 2" width="500"/>
       </td>
     </tr>
   </table>
