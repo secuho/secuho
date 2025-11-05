@@ -53,7 +53,6 @@ Redraccoon Cyber Security BHPT 과정 (2025.10.08 ~ ) <br>
   <table>
     <tr>
       <td align="center"><b style="font-size: 1.2em;">수료증</b></td>
-      <td align="center"><b style="font-size: 1.2em;">수료증</b></td>
     </tr>
     <tr>
       <td align="center">
