@@ -10,9 +10,7 @@ I am interested in Cyber Security.
 ## 📝 History
 동국대학교 컴퓨터AI학부 학부과정 (2025.03.04 ~ ) <br>
 창의문제해결 프로젝트 NEXCODE팀 CAI Roadmap 서버/백엔드 개발 (2025.07.29 ~ 2025.11.28) <br>
-과학기술정보통신부주최/KISA주관 K-Shiled Jr. 16차 수료 (2025.09.02 ~ 2025.09.15) <br>
 Raspberry Pi Code Club Projects NEXCODE팀 SW교육기부단 (2025.09.22 ~ 2025.11.14) <br>
-FindtheGap/KISA주관 버그헌팅 실습 훈련 16차 수료 (2025.10.17 ~ 2025.10.31) <br>
 Redraccoon Cyber Security BHPT 과정 (2025.10.08 ~ ) <br>
 
 <br>
@@ -63,6 +61,8 @@ Redraccoon Cyber Security BHPT 과정 (2025.10.08 ~ ) <br>
         <img src="https://github.com/user-attachments/assets/1b287ab7-6ee3-4eaf-a932-e27778dad057" alt="Certificate 2" width="500"/>
       </td>
     </tr>
+      과학기술정보통신부주최/KISA주관 K-Shiled Jr. 16차 수료 (2025.09.02 ~ 2025.09.15) <br>
+      FindtheGap/KISA주관 버그헌팅 실습 훈련 16차 수료 (2025.10.17 ~ 2025.10.31) <br>
   </table>
 </div>
 
