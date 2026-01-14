@@ -50,21 +50,34 @@ Redraccoon Cyber Security BHPT 과정 (2025.10.08 ~ ) <br>
 ## 📜 Certificates
 <div align="center">
   <table>
-    <td colspan="2" align="center">
+    <tr>
+      <td colspan="2" align="center">
         <b style="font-size: 1.2em;">수료증</b>
       </td>
+    </tr>
     <tr>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/2f70bbae-2359-4e87-a6e0-7105c3ffa54b" alt="Certificate 1" width="500"/>
+        <br><br>
+        <b>K-Shield Jr. 16기 수료</b><br>
+        과학기술정보통신부 주최 · KISA 주관<br>
+        <span style="font-size: 0.9em; color: gray;">
+          2025.09.02 ~ 2025.09.15
+        </span>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/1b287ab7-6ee3-4eaf-a932-e27778dad057" alt="Certificate 2" width="500"/>
+        <br><br>
+        <b>버그헌팅 실습 훈련 16기 수료</b><br>
+        Find the Gap · KISA 주관<br>
+        <span style="font-size: 0.9em; color: gray;">
+          2025.10.17 ~ 2025.10.31
+        </span>
       </td>
     </tr>
-      과학기술정보통신부주최/KISA주관 K-Shiled Jr. 16차 수료 (2025.09.02 ~ 2025.09.15) <br>
-      FindtheGap/KISA주관 버그헌팅 실습 훈련 16차 수료 (2025.10.17 ~ 2025.10.31) <br>
   </table>
 </div>
+
 
 <div align="left">
     <h2>📫 Contact    </h2>
