@@ -48,39 +48,32 @@ Redraccoon Cyber Security BHPT 과정 (2025.10.08 ~ ) <br>
 ##
 
 ## 📜 Certificates
+
 <div align="center">
-  <table>
-    <tr>
-      <td colspan="2" align="center">
-        <b style="font-size: 1.2em;">수료증</b>
+  <table style="width: 100%; max-width: 1000px; border-collapse: collapse; background-color: transparent;">
+    <tr style="background-color: transparent;">
+      <td colspan="2" align="center" style="padding: 10px 0;">
+        <b style="font-size: 1.3em;">수료증</b>
       </td>
     </tr>
-
-    <tr>
-      <td align="center">
-        <b>K-Shield Jr. 16기 수료</b><br>
-        과학기술정보통신부 주최 · KISA 주관<br>
-        <span style="font-size: 0.9em; color: gray;">
-          &lt;&lt; 2025.09.02 ~ 2025.09.15 &gt;&gt;
-        </span>
-
-        <div style="margin: 12px 0;"></div>
-
-        <img src="https://github.com/user-attachments/assets/2f70bbae-2359-4e87-a6e0-7105c3ffa54b"
-             alt="Certificate 1" width="500"/>
+    <tr style="background-color: transparent;">
+      <td align="center" width="50%" style="padding-bottom: 8px; border-bottom: 1px solid #eaecef; vertical-align: bottom; line-height: 1.4;">
+        <b style="font-size: 1.1em;">K-Shield Jr. 16기 수료</b><br>
+        <span style="color: #57606a; font-size: 0.85em;">과학기술정보통신부 주최 · KISA 주관</span><br>
+        <small style="color: #8b949e; font-size: 0.65em;">(2025.09.02 ~ 2025.09.15)</small>
       </td>
-
-      <td align="center">
-        <b>버그헌팅 실습 훈련 16기 수료</b><br>
-        Find the Gap · KISA 주관<br>
-        <span style="font-size: 0.9em; color: gray;">
-          &lt;&lt; 2025.10.17 ~ 2025.10.31 &gt;&gt;
-        </span>
-
-        <div style="margin: 12px 0;"></div>
-
-        <img src="https://github.com/user-attachments/assets/1b287ab7-6ee3-4eaf-a932-e27778dad057"
-             alt="Certificate 2" width="500"/>
+      <td align="center" width="50%" style="padding-bottom: 8px; border-bottom: 1px solid #eaecef; vertical-align: bottom; line-height: 1.4;">
+        <b style="font-size: 1.1em;">버그헌팅 실습 훈련 16기 수료</b><br>
+        <span style="color: #57606a; font-size: 0.85em;">Find the Gap · KISA 주관</span><br>
+        <small style="color: #8b949e; font-size: 0.65em;">(2025.10.17 ~ 2025.10.31)</small>
+      </td>
+    </tr>
+    <tr style="background-color: transparent;">
+      <td align="center" style="padding-top: 10px;">
+        <img src="https://github.com/user-attachments/assets/2f70bbae-2359-4e87-a6e0-7105c3ffa54b" width="95%" style="display: block;">
+      </td>
+      <td align="center" style="padding-top: 10px;">
+        <img src="https://github.com/user-attachments/assets/1b287ab7-6ee3-4eaf-a932-e27778dad057" width="95%" style="display: block;">
       </td>
     </tr>
   </table>
