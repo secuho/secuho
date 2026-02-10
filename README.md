@@ -12,8 +12,9 @@ I am interested in Cyber Security.
 창의문제해결 프로젝트 NEXCODE팀 CAI Roadmap 서버/백엔드 개발 (2025.07.29 ~ 2025.11.28) <br>
 Raspberry Pi Code Club Projects NEXCODE팀 SW교육기부단 (2025.09.22 ~ 2025.11.14) <br>
 Redraccoon Cyber Security BHPT 과정 (2025.10.08 ~ ) <br>
+동국대학교 첨단융합대학 X-THON 해커톤 NEXCODE팀 서버/백엔드 개발 (2025.11.22 ~ 2025.11.23) <br>
+IoTCOSS 세종대학교 사물인터넷 플랫폼 활용 개발자 챌린지 NEXCODE팀 장려상 수상 (2026.01.05 ~ 2026.02.02) <br>
 
-<br>
 
 ## 🎓 Tech / Tools
 <div align="center">
