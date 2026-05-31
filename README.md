@@ -1,86 +1,102 @@
 <div align="center">
-<div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2&text=Secuho&fontSize=55&fontAlign=75&fontAlignY=37" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0C447C,100:185FA5&text=Jaeho%20Bae&fontSize=42&fontColor=E6F1FB&fontAlign=72&fontAlignY=33&desc=Cyber%20Security%20%7C%20Backend%20Developer&descSize=15&descColor=B5D4F4&descAlign=72&descAlignY=50" />
 </div>
 
-<h1 style="text-align:center"> Hi I'm Jaeho Bae 😙</h1>
-I am interested in Cyber Security.
 <br>
 
-## 📝 History
-동국대학교 컴퓨터AI학부 학부과정 (2025.03.04 ~ ) <br>
-창의문제해결 프로젝트 NEXCODE팀 CAI Roadmap 서버/백엔드 개발 (2025.07.29 ~ 2025.11.28) <br>
-Raspberry Pi Code Club Projects NEXCODE팀 SW교육기부단 (2025.09.22 ~ 2025.11.14) <br>
-Redraccoon Cyber Security BHPT 과정 (2025.10.08 ~ ) <br>
-동국대학교 첨단융합대학 X-THON 해커톤 NEXCODE팀 서버/백엔드 개발 (2025.11.22 ~ 2025.11.23) <br>
-IoTCOSS 세종대 사물인터넷 플랫폼 활용 개발자 챌린지 NEXCODE팀 장려상 수상 (2026.01.05 ~ 2026.02.02) <br>
-
-
-## 🎓 Tech / Tools
 <div align="center">
-    <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black" />
-    <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<br>
-    <img src="https://img.shields.io/badge/apache-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" />
-    <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
-    <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/portainer-13BEF9.svg?style=for-the-badge&logo=portainer&logoColor=black" />
-    <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=white" />
+
+```
+  @secuho  ·  동국대학교 컴퓨터AI학부  ·  Cyber Security & Backend
+```
+
 </div>
 
 <br>
 
-## 💻 Environments
-<div align="center">
-    <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/kali%20linux-%23557C94.svg?&style=for-the-badge&logo=kali%20linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/synology-%23B5B5B6.svg?&style=for-the-badge&logo=synology&logoColor=black" />
-</div>
+## 👤 About Me
+
+보안 연구와 서버/백엔드 개발을 병행하며 성장하고 있는 개발자입니다.  
+K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓고 있고,  
+팀 프로젝트에서는 서버/인프라를 담당하며 실전 경험을 키워가고 있습니다.
 
 <br>
 
-##
-![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=secuho)
-<img src="http://mazandi.herokuapp.com/api?handle=secuho&theme=warm"/>
-##
+## 📋 History
+
+| 기간 | 내용 | 비고 |
+|:--|:--|:--:|
+| 2025.03 ~ | 동국대학교 컴퓨터AI학부 재학 | |
+| 2025.07 ~ 11 | 창의문제해결 프로젝트 — CAI Roadmap 서버/백엔드 개발 (NEXCODE) | |
+| 2025.09 ~ 11 | Raspberry Pi Code Club Projects — SW교육기부단 (NEXCODE) | |
+| 2025.10 ~ | Redraccoon Cyber Security — BHPT 과정 | |
+| 2025.11.22 ~ 23 | 동국대 첨단융합대학 X-THON 해커톤 서버/백엔드 개발 (NEXCODE) | |
+| 2026.01 ~ 02 | IoTCOSS 세종대 사물인터넷 플랫폼 활용 개발자 챌린지 (NEXCODE) | 🏅 장려상 |
+
+<br>
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Server & Infra**
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Security & Environment**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Synology](https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=synology&logoColor=black)
+
+<br>
 
 ## 📜 Certificates
 
 <div align="center">
-  <table style="width: 100%; max-width: 1000px; border-collapse: collapse; background-color: transparent;">
-    <tr style="background-color: transparent;">
-      <td colspan="2" align="center" style="padding: 10px 0;">
-        <b style="font-size: 1.3em;">수료증</b>
-      </td>
-    </tr>
-    <tr style="background-color: transparent;">
-      <td align="center" width="50%" style="padding-bottom: 8px; border-bottom: 1px solid #eaecef; vertical-align: bottom; line-height: 1.4;">
-        <b style="font-size: 1.1em;">K-Shield Jr. 16기 수료</b><br>
-        <span style="color: #57606a; font-size: 0.85em;">과학기술정보통신부 주최 · KISA 주관</span><br>
-        <small style="color: #8b949e; font-size: 0.65em;">(2025.09.02 ~ 2025.09.15)</small>
-      </td>
-      <td align="center" width="50%" style="padding-bottom: 8px; border-bottom: 1px solid #eaecef; vertical-align: bottom; line-height: 1.4;">
-        <b style="font-size: 1.1em;">버그헌팅 실습 훈련 16기 수료</b><br>
-        <span style="color: #57606a; font-size: 0.85em;">Find the Gap · KISA 주관</span><br>
-        <small style="color: #8b949e; font-size: 0.65em;">(2025.10.17 ~ 2025.10.31)</small>
-      </td>
-    </tr>
-    <tr style="background-color: transparent;">
-      <td align="center" style="padding-top: 10px;">
-        <img src="https://github.com/user-attachments/assets/2f70bbae-2359-4e87-a6e0-7105c3ffa54b" width="95%" style="display: block;">
-      </td>
-      <td align="center" style="padding-top: 10px;">
-        <img src="https://github.com/user-attachments/assets/1b287ab7-6ee3-4eaf-a932-e27778dad057" width="95%" style="display: block;">
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <th align="center">K-Shield Jr. 16기 수료</th>
+    <th align="center">버그헌팅 실습 훈련 16기 수료</th>
+  </tr>
+  <tr>
+    <td align="center">
+      과학기술정보통신부 주최 · KISA 주관<br>
+      <sub>2025.09.02 ~ 2025.09.15</sub>
+    </td>
+    <td align="center">
+      Find the Gap · KISA 주관<br>
+      <sub>2025.10.17 ~ 2025.10.31</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2f70bbae-2359-4e87-a6e0-7105c3ffa54b" width="90%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1b287ab7-6ee3-4eaf-a932-e27778dad057" width="90%">
+    </td>
+  </tr>
+</table>
 </div>
 
-<div align="left">
-    <h2>📫 Contact    </h2>
-    <p> If you want to contact me, please email <a href="mailto:secuho@secuho.life">secuho@secuho.life</a>.    </p>
-</div>    <br>
+<br>
+
+
+## 📫 Contact
+
+> 문의는 이메일로 편하게 연락 주세요.  
+> **[secuho@secuho.life](mailto:secuho@secuho.life)**
+
+<br>
