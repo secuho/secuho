@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0C447C,100:185FA5&text=Jaeho%20Bae&fontSize=42&fontColor=E6F1FB&fontAlign=50&fontAlignY=30&desc=Cyber%20Security%20%7C%20Backend%20%26%20Infrastructure%20Engineer&descSize=13&descColor=B5D4F4&descAlign=50&descAlignY=47" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0C447C,100:185FA5&text=Jaeho%20Bae&fontSize=42&fontColor=E6F1FB&fontAlign=50&fontAlignY=30&desc=Cyber%20Security%20%7C%20Backend%20and%20Infrastructure%20Engineer&descSize=13&descColor=B5D4F4&descAlign=50&descAlignY=47" />
 </div>
 
 <br>
@@ -7,7 +7,7 @@
 <div align="center">
 
 ```
-  @secuho  ·  동국대학교 컴퓨터AI학부  ·  Cyber Security & Backend
+  @secuho  ·  동국대학교 컴퓨터AI학부  ·  Cyber Security | Backend & Infrastructure Engineer
 ```
 
 </div>
@@ -16,9 +16,9 @@
 
 ## 👤 About Me
 
-보안 연구와 서버/백엔드 개발을 병행하며 성장하고 있는 개발자입니다.  
-K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓고 있고,  
-팀 프로젝트에서는 서버/인프라를 담당하며 실전 경험을 키워가고 있습니다.
+보안 연구와 백엔드/서버 인프라 개발을 병행하며 성장하고 있는 배재호(Bae Jaeho)입니다.  
+K-Shield Jr. 및 버그헌팅 실습등 다양한 훈련들을 통해 보안 역량을 쌓고 있고,   
+팀 프로젝트에서는 백엔드/서버 인프라 구축을 담당하며 실전 경험을 키워가고 있습니다.
 
 <br>
 
@@ -40,26 +40,29 @@ K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Backend**
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=Spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=Postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=Flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=flat-square&logo=fastapi)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Infra & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=Grafana&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=Portainer&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=black)
 
 **Security & Environment**
 
