@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0C447C,100:185FA5&text=Jaeho%20Bae&fontSize=42&fontColor=E6F1FB&fontAlign=30&fontAlignY=30&desc=Cyber%20Security%20%7C%20Backend%20Developer&descSize=15&descColor=B5D4F4&descAlign=30&descAlignY=47" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0C447C,100:185FA5&text=Jaeho%20Bae&fontSize=42&fontColor=E6F1FB&fontAlign=50&fontAlignY=30&desc=Cyber%20Security%20%7C%20Backend%20Developer&descSize=15&descColor=B5D4F4&descAlign=50&descAlignY=47" />
 </div>
 
 <br>
@@ -49,6 +49,7 @@ K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
