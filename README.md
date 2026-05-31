@@ -32,6 +32,7 @@ K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓
 | 2025.10 ~ | Redraccoon Cyber Security — BHPT 과정 | |
 | 2025.11.22 ~ 23 | 동국대 첨단융합대학 X-THON 해커톤 서버/백엔드 개발 (NEXCODE) | |
 | 2026.01 ~ 02 | IoTCOSS 세종대 사물인터넷 플랫폼 활용 개발자 챌린지 (NEXCODE) | 🏅 장려상 |
+| 2026.04 ~ 07 | Raspberry Pi Code Club Projects — SW교육기부단 (NEXCODE) | |
 
 <br>
 
@@ -49,7 +50,7 @@ K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -70,7 +71,8 @@ K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓
 <table>
   <tr>
     <th align="center">K-Shield Jr. 16기 수료</th>
-    <th align="center">버그헌팅 실습 훈련 16기 수료</th>
+    <th align="center">버그헌팅 실습 훈련 2025-16기 수료</th>
+    <th align="center">버그헌팅 실습 훈련 2026-2기 수료</th>
   </tr>
   <tr>
     <td align="center">
@@ -81,6 +83,10 @@ K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓
       Find the Gap · KISA 주관<br>
       <sub>2025.10.17 ~ 2025.10.31</sub>
     </td>
+    <td align="center">
+      Find the Gap · KISA 주관<br>
+      <sub>2026.03.09 ~ 2026.03.22</sub>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -88,6 +94,9 @@ K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/1b287ab7-6ee3-4eaf-a932-e27778dad057" width="90%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/58b913e0-90d6-447b-8ba9-ec4c5a9c53d5" width="90%">
     </td>
   </tr>
 </table>
@@ -101,3 +110,7 @@ K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓
 > **[secuho@secuho.life](mailto:secuho@secuho.life)**
 
 <br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:185FA5,100:0C447C&section=footer" />
+</div>
