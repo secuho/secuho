@@ -111,7 +111,7 @@ K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓
 
 ## 📫 Contact
 
-> 문의는 이메일로 편하게 연락 주세요.  
+> 문의는 이메일로 언제든지 연락 주세요.
 > **[secuho@secuho.life](mailto:secuho@secuho.life)**
 
 <br>
