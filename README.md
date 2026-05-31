@@ -63,9 +63,9 @@ K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓
 
 **Security & Environment**
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Synology](https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=synology&logoColor=black)
 
 <br>
