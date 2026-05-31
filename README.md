@@ -110,7 +110,3 @@ K-Shield Jr. 및 버그헌팅 실습 훈련을 수료하며 보안 역량을 쌓
 > **[secuho@secuho.life](mailto:secuho@secuho.life)**
 
 <br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:185FA5,100:0C447C&section=footer" />
-</div>
