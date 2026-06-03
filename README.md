@@ -114,7 +114,7 @@ K-Shield Jr. 및 버그헌팅 실습등 다양한 훈련들을 통해 보안 역
 
 ## 📫 Contact
 
-> 상시 문의: 
+> 문의 : 
 > **[secuho@secuho.life](mailto:secuho@secuho.life)**
 
 <br>
