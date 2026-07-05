@@ -73,6 +73,17 @@ K-Shield Jr. 및 버그헌팅 실습등 다양한 훈련들을 통해 보안 역
 
 <br>
 
+## 🏆 국가공인 자격증
+
+| Category | Issuing Organization | Certificate | Issued Date |
+|:--|:--|:--|:--|
+| IT | 한국데이터산업진흥원<br>Korea Data Agency | 데이터 분석 준전문가 (ADsP)<br>Advanced Data Analytics Semi-Professional | 2025.11.28 |
+|    | 한국산업인력공단<br>Human Resources Development Service of Korea | 프로그래밍기능사 (구 정보처리기능사)<br>Programming Craftsman | 2026.07.03 |
+| Communication | 한국방송통신전파진흥원 (KCA)<br>Korea Communications Agency | 육상무선통신사<br>Terrestrial Radio Communication Operator | 2026.01.13 |
+|               |                                                           | 항공무선통신사<br>Aeronautical Radio Communication Operator | 2026.04.23 |
+
+<br>
+
 ## 📜 Certificates
 
 <div align="center">
